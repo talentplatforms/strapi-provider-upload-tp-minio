@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v2.0.0...v2.0.1) (2020-10-09)
+
+
+### Bug Fixes
+
+* useSSL was asuming something wrong ([ced98fa](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/commit/ced98faf021985799517825ebbcc942976bcecae))
+
 ## [2.0.0](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v1.1.1...v2.0.0) (2020-07-28)
 
 
