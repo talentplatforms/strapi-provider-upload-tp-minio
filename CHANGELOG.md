@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v2.0.2...v2.1.0) (2020-10-16)
+
+
+### Features
+
+* mime type is now correctly set ([1b1aede](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/commit/1b1aedeb7a5914a0e4f6b35335d70d60080431fe))
+
 ### [2.0.2](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v2.0.1...v2.0.2) (2020-10-09)
 
 

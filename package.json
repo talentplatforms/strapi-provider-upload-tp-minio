@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-tp-minio",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "MINIO provider for strapi upload",
   "main": "./lib",
   "directories": {
