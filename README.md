@@ -1,6 +1,5 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-
-# strapi-provider-upload-tp-minio
+host# strapi-provider-upload-tp-minio
 
 This upload provider uses the [JavaScript Minio.Client](https://docs.min.io/docs/javascript-client-api-reference.html) to upload files to a (self hosted) instance of [Minio](https://min.io/).
 
@@ -25,6 +24,9 @@ The following config settings are available:
 | Folder              | folder        | string                                        |
 | isDocker            | isDocker      | bool                                          |
 | Host                | host          | string                                        |
+| overridePath        | overridePath  | string (overrides host settings)              |
+
+The thing with the overridePath is, that it enables you to set a proxied image url, so that you can output the images through some kind of image proxy (eg. thumbor or imgproxy).
 
 ## Example Hash
 
