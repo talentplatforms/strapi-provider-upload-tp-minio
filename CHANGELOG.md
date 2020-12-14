@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v2.1.0...v3.0.0) (2020-12-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* adds override option
+
+### Features
+
+* adds override option ([93d5804](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/commit/93d5804245c39cd59488182354b90a25d2a57845))
+
+
+### Feature Improvements
+
+* adds the npm publish to the makefile ([f296e17](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/commit/f296e1734d1ae6362e8ed6e129091b3124f4205f))
+
 ## [2.1.0](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v2.0.2...v2.1.0) (2020-10-16)
 
 
