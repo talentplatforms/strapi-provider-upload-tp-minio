@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v3.0.0...v3.0.1) (2025-06-30)
+
+
+### Docs
+
+* readme ([8592e91](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/commit/8592e913ed2335c478d24098ec09d6618df907ae))
+
 ## [3.0.0](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v2.1.0...v3.0.0) (2020-12-14)
 
 

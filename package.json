@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-tp-minio",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "MINIO provider for strapi upload",
   "main": "./lib",
   "directories": {
@@ -21,14 +21,14 @@
   },
   "license": "MIT",
   "dependencies": {
-    "minio": "^7.0.15"
+    "minio": "^8.0.5"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
     "husky": "^4.2.3",
     "prettier": "^2.0.4",
-    "standard-version": "^7.1.0"
+    "standard-version": "^9.5.0"
   },
   "husky": {
     "hooks": {
