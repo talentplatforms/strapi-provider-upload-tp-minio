@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v3.0.1...v3.1.0) (2025-10-30)
+
+
+### Features
+
+* adds override path for downloadables ([db93b3d](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/commit/db93b3d4ffad7ded0976125ae835eebb461534e9))
+
 ### [3.0.1](https://github.com/talentplatforms/strapi-provider-upload-tp-minio/compare/v3.0.0...v3.0.1) (2025-06-30)
 
 
